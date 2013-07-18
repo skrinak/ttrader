@@ -1,0 +1,4 @@
+ttrader
+=======
+
+Algorithmic trading techniques
